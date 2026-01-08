@@ -16,19 +16,12 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-- HTML  
-- CSS  
+**Frontend**          **Backend**       **Tools & Others**
+- HTML                - PHP              - Git & GitHUB
+- CSS                 - SQL
 - JavaScript  
-- React  
-
-**Backend**
-- PHP  
-- SQL  
-
-**Tools & Others**
-- Git & GitHub  
-
+- React
+- 
 ---
 
 ## 📌 What I’m Working On
@@ -46,10 +39,3 @@
 - Grow as a confident full stack developer  
 
 ---
-
-## 📫 Let’s Connect
-
-Feel free to explore my repositories and connect with me.  
-Always excited to learn, build, and collaborate 🚀
-
-⭐ *If you like my work, consider starring my repositories!*
