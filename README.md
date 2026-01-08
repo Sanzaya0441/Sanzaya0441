@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there 👋, I'm a Full Stack Developer
 
-<!--
-**Sanzaya0441/Sanzaya0441** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student | Full Stack Developer**  
+💡 Curious learner passionate about building meaningful digital products.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Currently **learning and building** web & mobile applications  
+- 💻 Interested in **full stack development**  
+- 🧠 Love exploring new technologies and improving my problem-solving skills  
+- 🤝 Open to collaboration and hands-on project experience  
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+
+**Backend**
+- PHP  
+- SQL  
+
+**Tools & Others**
+- Git & GitHub  
+
+---
+
+## 📌 What I’m Working On
+
+- Building real-world **web applications**
+- Strengthening **full stack fundamentals**
+- Exploring **mobile app development**
+
+---
+
+## 🎯 Goals
+
+- Write clean, efficient, and scalable code  
+- Contribute to open-source projects  
+- Grow as a confident full stack developer  
+
+---
+
+## 📫 Let’s Connect
+
+Feel free to explore my repositories and connect with me.  
+Always excited to learn, build, and collaborate 🚀
+
+⭐ *If you like my work, consider starring my repositories!*
