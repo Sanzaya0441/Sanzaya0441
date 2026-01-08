@@ -16,12 +16,19 @@
 
 ## 🛠️ Tech Stack
 
-**Frontend**          **Backend**       **Tools & Others**
-- HTML                - PHP              - Git & GitHUB
-- CSS                 - SQL
+**Frontend**
+- HTML
+- CSS
 - JavaScript  
 - React
-- 
+
+**Backend**
+-PHP
+-SQL
+
+**Tools & Others**
+- Git & Github
+  
 ---
 
 ## 📌 What I’m Working On
