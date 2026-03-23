@@ -1,4 +1,4 @@
-# Hi there 👋, I'm a Full Stack Developer
+# Hi there 👋, I'm a Frontend Developer
 
 🎓 **Student | Full Stack Developer**  
 💡 Curious learner passionate about building meaningful digital products.
